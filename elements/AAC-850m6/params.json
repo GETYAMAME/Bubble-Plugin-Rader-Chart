@@ -1,0 +1,61 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "add_large_file_upload_properties": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 400,
+        "width": 400
+    },
+    "display": "chart",
+    "fields": {
+        "AAE": {
+            "caption": "names",
+            "default_val": "Name1,Name2,Name3,Name4,Name5",
+            "doc": "Enter the names in the order in which they appear, separated by commas.",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "names",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "rader color",
+            "default_val": "blue",
+            "editor": "Dropdown",
+            "name": "rader_color",
+            "options": "red,orange,yellow,green,blue,purple,grey",
+            "rank": 2
+        },
+        "AAG": {
+            "caption": "data_name",
+            "default_val": "Sample Data",
+            "doc": "Generic name of the data displayed on the radar.",
+            "editor": "DynamicValue",
+            "name": "data_name",
+            "rank": 3,
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "values",
+            "default_val": "8,4,5,2,9",
+            "doc": "Enter the displayed values in the order they appear, separated by commas. (Note: The order must match the \"names\".)",
+            "editor": "DynamicValue",
+            "is_list": false,
+            "long_text": true,
+            "name": "values",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "icon": "ion-aperture",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": false,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    },
+    "support_autobinding": false
+}

@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "analytics",
+        "2": "technical",
+        "3": "productivity"
+    },
+    "demo_page": "https://demo-page-real-time-char-counter.bubbleapps.io/version-test/test",
+    "description": "This plug-in allows you to easily draw radar charts.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1613580171006x403368563982491100/Group%2026.png",
+    "license": "open_source",
+    "link": "https://demo-page-real-time-char-counter.bubbleapps.io/version-test/test",
+    "name": "Rader Chart",
+    "plugin_instructions": "You can freely set the number of items and values to create a radar chart.\n\n■Preview\nhttps://bubble.io/page?type=page&name=test&id=demo-page-real-time-char-counter&test_plugin=1613573833998x131399763832864770_current&tab=tabs-1\n\n■How to Use\n(1) Select the \"chart\" element in the \"Design\" tab and configure the settings.\n\n(2) Separate \"names\" and \"values\" with commas and set the item names and values you want to display in the graph.\n\n(3) You can also change the color of the graph in \"rader color\".\n\n(4) \"data name\" can be used to describe what data is being displayed.\n\n(5) Preview the chart to see it.\n\n■Note\nCurrently, only one chart can be drawn per screen.\n"
+}
